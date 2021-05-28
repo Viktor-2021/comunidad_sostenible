@@ -1,0 +1,491 @@
+/* Inserta tu codigo aqui */
+
+.body{
+    margin:0 auto;
+    text-align: center;
+}
+.container{
+    width:1024px;
+    height:3500px;   
+    text-align: center;
+    margin: 0 auto;
+}
+.nosotros{
+    width: 1024px;
+    height: 1120px;
+    text-align:center;
+    margin:-1px;
+}
+
+.cabecera{
+    width:800px;
+    height:100px;
+    vertical-align:top;
+    margin: 0 auto;
+    padding:5px;
+}
+
+.logooficial{
+    width:110px;
+    height: 100px;
+    display:inline-block;
+    vertical-align: top;    
+}
+.logo{
+    width:110px;
+    height: 100px;
+    display:inline-block;
+    vertical-align: top;
+}
+.botonera{
+    width: 600px;
+    height:100px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 100px;
+    margin-left: 25px; 
+}
+
+a{
+    text-decoration: none;
+    vertical-align: middle;
+    padding-right:15px;
+    border-right: 1px solid gray;
+    margin:5px;
+    font-family: OpenSans-Bold;
+	src: url(../fonts/Open/OpenSans-Bold.ttf);
+    color:gray;    
+}
+.sinborde{
+    border:0px;
+}
+
+.heroImage{
+    width: 1024px;
+    height: 304px; 
+    margin: 0 auto;
+    display:inline-block;
+}
+
+.heroImage img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    -webkit-mask-size: cover;
+    mask-size: cover;
+}
+.bajada_foto{
+    width:1000px;
+    height:80px;
+    background-color:#F3F3F3;
+    vertical-align: top;
+    display:inline-block;        
+    text-align:center;
+    padding:12px;
+    margin: 0 auto;
+    margin:-4px;
+}
+.bajada_foto p{
+    width:500px;
+    height:80px;
+    margin: 0 auto;
+    display:inline-block;
+    margin-top: 10px;
+}
+
+.mi_vi{
+    width:1024px;
+    height:320px;
+    text-align:center;
+    padding-top:10px;
+    margin: 0 auto;
+}
+
+.mision{
+    width:380px;
+    height:300px;
+    vertical-align:center;
+    display:inline-block;
+    margin-right:10px;
+    text-align:center;    
+}
+
+.mision img{
+    width: 150px;
+    height: 150px;
+    margin-top: 10px;
+}
+
+.mision h1{
+    width: 380px;
+}
+.mision p{
+    width:320px;
+    height:60px;       
+    display:inline;
+    
+}
+
+.vision{
+    width: 380px;
+    height: 300px;
+    vertical-align:center;
+    display:inline-block;
+    margin-left: 10px;    
+    text-align:center;       
+}
+
+.vision img{
+    width: 150px;
+    height: 150px;
+    margin-top: 15px;
+}
+
+.vision h1{
+    width: 380px;
+}
+.vision p{
+    width:320px;
+    height:60px;
+    display:inline;
+    margin-bottom:15px;
+}
+.fotosmi_vi{
+    width: 1024px;
+    height: 300px;
+    display:inline-block;
+    position: relative;
+    background-image: url("../img/fondo.jpg");
+}
+.fotosmi_vi img{
+    width:512px;
+    height:300px;
+    vertical-align:top;
+    text-align:center;
+    position: absolute;
+    left: 0;
+}
+.contiene_texto{
+    width:512px;
+    height:300px;
+    position: absolute;
+    right: 0;
+    
+}
+.contiene_texto h2{
+    width:300px;
+    height:40px;
+    margin-top: 120px;
+    vertical-align:center;    
+    display:inline-block;
+    color:white;
+}
+.contiene_texto p{
+    width:300px;
+    height:70px;
+    vertical-align:center;    
+    display:inline-block;
+    color:white;
+}
+.contiene_texto img{
+    margin-top: 50px;
+    text-align: center;
+    width:60px;
+    height:60px;
+    margin-left: 220px;
+}
+
+.servicios{
+    width: 1024px;
+    height: 800px;    
+    margin:-1px;
+    margin: 0 auto;
+    display: inline-block;
+    text-align:center;
+    padding-top: 10px;
+}
+.cabeza{
+    width: 1024px;
+    height: 120px;
+    vertical-align:top;
+    
+    display: inline-block;
+    text-align:center;
+    padding:5px 0px 5px 0px;
+}
+
+.cabeza h1{
+    width: 1024px;
+    height: 30px;
+}
+
+.cabeza p{
+    width: 800px;
+    height: 80px;
+    margin: 0 auto;
+}
+
+.con_servis{
+    width: 800px;
+    height: 640px;
+    display:inline-block;
+    text-align:center;
+    margin: 0 auto;
+    padding-top:20px;
+}
+
+.educacion, .mitigacion, .bienestar, .consultorias, .aguas, .agricultura{
+    width: 250px;
+    height: 300px;
+    vertical-align:top;
+    display:inline-block;
+    margin:5px;    
+}
+
+.con_servis img{
+    width:100px;
+    height: 100px;
+}
+.con_servis p{
+    width:fit-content;
+    height:auto;
+    text-align:center;
+    vertical-align: bottom;
+}
+.proyectos{
+    width: 1024px;
+    height: 640px;    
+    background-color:#8EB652;
+    vertical-align:top;
+    margin: 0 auto;
+    margin:-1px;    
+    display: inline-block;
+    text-align:center;    
+}
+
+    h1{
+    vertical-align:top;
+    display:inline-block;
+    width: 1024px;
+    }
+
+.proyectos img{
+    width: 380px;
+    height: 260px;
+    vertical-align:top;
+    display:inline-block;
+    margin-bottom: 15px;
+    margin-right: 15px;
+}
+
+.bloque_texto{
+    width: 380px;
+    height: 260px; 
+    text-align: left;
+    display:inline-block;
+    vertical-align:top;
+    margin-bottom: 15px;
+    margin-left: 5px;
+    color: white;
+}
+.equipo{
+    width:800px;
+    height: 640px;    
+    vertical-align:top;
+    display: inline-block;        
+    text-align:center;    
+    padding:10px;
+}
+
+.equipo h1{
+    vertical-align:top;
+    display:inline-block;
+    text-align: center;
+    width: 800px;
+    height: 30px;
+}
+
+.camila{
+    width: 380px;
+    height: 500px;
+    vertical-align:top;
+    display:inline-block;
+    margin-right: 15px;
+    
+}
+
+.camila h3 h4{
+    width: 380px;
+    height: auto;
+    text-align: center;
+}
+
+.camila p{
+    width: 380px;
+    height: auto;
+    text-align: center;
+}
+
+.imgRedonda{
+    width:250px;
+    height:250px;
+    border-radius:150px;
+    text-align: center;
+    vertical-align:top;
+}
+
+.gabriela{
+    width: 380px;
+    height: 500px;
+    vertical-align:top;
+    display:inline-block;
+    margin-left: 15px;    
+}
+
+.gabriela h3 h4{
+    width: 380px;
+    height: auto;
+    text-align: center;
+}
+
+.gabriela p{
+    width: 380px;
+    height: auto;
+    text-align: center;
+}
+
+.redes {
+    width: 380px;
+    height: auto;
+    text-align: center;
+    display:inline-block;
+}
+.redes img{
+    width: 40px;
+    height: auto;
+    margin:5px;
+}
+
+.blog{
+    width:1024px;
+    height: 500px;
+    vertical-align: top;
+    display:inline-block;
+    margin: 0 auto;
+    background-image: url("../img/fondo2.jpg");
+    text-align: center;
+    
+}
+
+.post1, .post2, .post3{
+    width: 250px;
+    height: 380px;
+    vertical-align:top;
+    display:inline-block;
+    margin:10px 5px 5px 5px;
+    text-align: left;   
+}
+
+.h3 .h4{
+    width:250px;
+    height: auto;   
+}
+
+.blog img{
+    width:250px;
+    height:180px;
+}
+
+.blog p{
+    width:250px;
+    height:auto;
+    text-align:left;    
+}
+
+.slider{
+    width: 60px;
+    height: 380px;
+    vertical-align:top;
+    display:inline-block;
+    text-align: center;    
+    margin:10px 5px 5px 5px;
+}
+
+.slider img{
+    width: 40px;
+    height: 40px;
+    margin:150px 0px 150px 0px;   
+}
+
+.Footer{
+    width:1024px;
+    height: 300px;
+    vertical-align: top;
+    display:inline-block;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #4E4B4B;
+        
+}
+
+.contienelogos{
+    width: 200px;
+    height: 200px;
+    text-align:left;
+    display: inline-block;
+    vertical-align:top;
+    position: relative;
+    margin:-2px;    
+    border:1px solid white;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.contienelogos img{
+    width: 50px;
+    height:auto;
+    position: absolute; top:0; right:0;
+    margin: 10px 20px 0px 0px;
+}
+
+.contienelogos h2{
+    margin: 0 auto;
+    position: absolute; top:0; left:0;
+    width: 120px;
+    height: 160px;
+    margin: 20px 0px 0px 20px;
+    color:white;
+}
+.creditos{
+    width: 1024px;
+    height: 100px;
+    background-color:#F3F3F3;
+    display: inline-block;
+    vertical-align:top;
+    position: relative;
+    text-align: center;  
+}
+
+.c1{
+    width:200px;
+    height: auto;
+    position: absolute; top:015px; left:110px;
+    margin: 0 auto;
+    text-align:left;
+    font-size:14px;
+}
+
+.c2{
+    width:300px;
+    height: auto;
+    position: absolute; top:015px; right:110px;
+    margin: 0 auto;
+    text-align:right;
+    font-size:14px;
+}
+
+.naranjo{
+    color: orange;
+}
+
